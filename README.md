@@ -34,17 +34,12 @@ Experiential Perspective Prompt:
 Everyday Functioning Prompts:
 *	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
 *	 	“How is encryption used in daily life when sending WhatsApp messages?”
-
 Universal Prompt Structures:
 ^ 	“Explain [concept] in simple terms with an example.”
 ^  “Explain the process of [task] step by step.”
-
 Prompt Size Limitations:
 &  	“Translate this 5000-word essay into Tamil.”
 → Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
-
-
-
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result:The various types of Prompts are executed successfully with generated the report.
